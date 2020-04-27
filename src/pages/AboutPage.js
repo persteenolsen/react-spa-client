@@ -15,14 +15,16 @@ export default function AboutPage() {
    <br/> <br/>
    
    <ul>
+       
+	   <li>"Create React App" was used for creating the structure of the project and the Webpack configuration</li>
        <li>React, HTML, CSS, JavaScript ES5 and ES6</li>
-       <li>React Bootstrap as NPM package for the responsive design</li>
+       <li>React Bootstrap implemented by NPM for the responsive design</li>
 	   <li>React BrowserRouter for navigation</li>
    </ul>
 
    <ul>
-       <li>Node.js</li>
-       <li>Besides a MySQL NPM package no server side framework like Express was used</li>
+       <li>Pure Node.js without Express</li>
+      
    </ul>
 
    
